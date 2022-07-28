@@ -1,0 +1,42 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "タイトルが入ります",
+    "content": "イベント内容のテキストが入ります",
+    "image": "/images/event_pc.jpg",
+    "alt": "イベントの写真",
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "タイトルが入ります",
+    "content": "イベント内容のテキストが入ります",
+    "image": "/images/event_pc.jpg",
+    "alt": "イベントの写真"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "タイトルが入ります",
+    "content": "イベント内容のテキストが入ります",
+    "image": "/images/event_pc.jpg",
+    "alt": "イベントの写真"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "タイトルが入ります",
+    "content": "イベント内容のテキストが入ります",
+    "image": "/images/event_pc.jpg",
+    "alt": "イベントの写真"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "タイトルが入ります",
+    "content": "イベント内容のテキストが入ります",
+    "image": "/images/event_pc.jpg",
+    "alt": "イベントの写真"
+  },
+]
