@@ -2,35 +2,35 @@
   "events": [
     {
       "id": 1,
-      "title": "タイトルが入ります",
+      "title": "懇親会",
       "content": "イベント内容のテキストが入ります",
       "image": "/images/event_pc.jpg",
       "alt": "イベントの写真"
     },
     {
       "id": 2,
-      "title": "タイトルが入ります",
+      "title": "社員旅行",
       "content": "イベント内容のテキストが入ります",
       "image": "/images/event_pc.jpg",
       "alt": "イベントの写真"
     },
     {
       "id": 3,
-      "title": "タイトルが入ります",
+      "title": "セミナー",
       "content": "イベント内容のテキストが入ります",
       "image": "/images/event_pc.jpg",
       "alt": "イベントの写真"
     },
     {
       "id": 4,
-      "title": "タイトルが入ります",
+      "title": "勉強会",
       "content": "イベント内容のテキストが入ります",
       "image": "/images/event_pc.jpg",
       "alt": "イベントの写真"
     },
     {
       "id": 5,
-      "title": "タイトルが入ります",
+      "title": "入社式",
       "content": "イベント内容のテキストが入ります",
       "image": "/images/event_pc.jpg",
       "alt": "イベントの写真"
