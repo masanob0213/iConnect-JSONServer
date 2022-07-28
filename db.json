@@ -2,6 +2,7 @@
   "events": [
     {
       "id": 1,
+      "data": "5/24",
       "title": "懇親会",
       "content": "イベント内容のテキストが入ります",
       "image": "/images/event_pc.jpg",
@@ -9,6 +10,7 @@
     },
     {
       "id": 2,
+      "data": "12/29",
       "title": "社員旅行",
       "content": "イベント内容のテキストが入ります",
       "image": "/images/event_pc.jpg",
@@ -16,6 +18,7 @@
     },
     {
       "id": 3,
+      "data": "1/24",
       "title": "セミナー",
       "content": "イベント内容のテキストが入ります",
       "image": "/images/event_pc.jpg",
@@ -23,6 +26,7 @@
     },
     {
       "id": 4,
+      "data": "2/13",
       "title": "勉強会",
       "content": "イベント内容のテキストが入ります",
       "image": "/images/event_pc.jpg",
@@ -30,6 +34,7 @@
     },
     {
       "id": 5,
+      "data": "4/1",
       "title": "入社式",
       "content": "イベント内容のテキストが入ります",
       "image": "/images/event_pc.jpg",
