@@ -20,7 +20,7 @@
       "id": 3,
       "data": "1月24日",
       "title": "セミナー",
-      "content": "イベント内容のテキストが入ります",
+      "content": "イベント内容のテキストが入ります。",
       "image": "/images/event_pc.jpg",
       "alt": "イベントの写真"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "data": "2月13日",
       "title": "勉強会",
-      "content": "イベント内容のテキストが入ります",
+      "content": "イベント内容のテキストが入ります。",
       "image": "/images/event_pc.jpg",
       "alt": "イベントの写真"
     },
